@@ -2,7 +2,7 @@
 ### DATE: 01/04/2024                                                                           
 ### REGISTER NUMBER : 212221040149
 ### AIM: 
-To write a prolog program to find the answer of query. 
+To write a prolog program to find the answer of query.
 ###  Algorithm:
  Step 1: Start the program <br> 
  Step 2: Convert the sentence into First order Logic  <br> 
