@@ -58,6 +58,7 @@ app.launch(share=True)
 ```
 
 ### Output:
+![ai](https://github.com/Sathya-006/AI_Lab_2023-24/assets/121661327/08ae80ea-69fb-43ef-9d93-364f8f8f36d4)
 
 
 ### Result:
